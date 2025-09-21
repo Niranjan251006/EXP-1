@@ -53,26 +53,12 @@ b.  KCL:
  ![491955650-6a5ecc91-6d24-49e0-9c31-b11bda9b06d9](https://github.com/user-attachments/assets/3f6ba9bb-8b6b-455a-8537-5807489ae49c)
 
 
-Calculation:
-
-a.   KVL:
- 
-
-
-b.  KCL:
-
-
-
-
-Tabulation:
-
-a.   KVL:
- 
-
-
-b.  KCL:
-
-
+Calculations and Tabulations:
+<img width="1200" height="1600" alt="489366184-ad171e7a-468c-43c4-ad40-b10a0afe379f" src="https://github.com/user-attachments/assets/17375359-413c-4380-b920-db87ed80ae66" />
+<img width="1200" height="1600" alt="489366212-7f6d7fab-b48f-42ce-a3ac-3da2e4bcdf51" src="https://github.com/user-attachments/assets/7a816187-f6cf-4ab7-935c-f8e476e4f2f9" />
+<img width="1200" height="1600" alt="489366247-af607c45-935c-4bc9-89ff-0234fc882fb9" src="https://github.com/user-attachments/assets/3f1904e7-84ba-4460-a5a0-8e112bb83353" />
+<img width="960" height="1280" alt="489366411-97f108c6-50e4-422d-b8ad-979d1616c786" src="https://github.com/user-attachments/assets/23566ed8-1796-474b-9288-5a9be73729ea" />
+<img width="1200" height="1600" alt="489366426-73b18b89-1b38-463e-bd10-60d19be03be5" src="https://github.com/user-attachments/assets/0fc8645c-c280-4c57-aff5-06bd64615bb3" />
 
 RESULT:
 
