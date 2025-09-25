@@ -54,12 +54,11 @@ b.  KCL:
 
 
 Calculations and Tabulations:
-<img width="1200" height="1600" alt="489366184-ad171e7a-468c-43c4-ad40-b10a0afe379f" src="https://github.com/user-attachments/assets/17375359-413c-4380-b920-db87ed80ae66" />
-<img width="1200" height="1600" alt="489366212-7f6d7fab-b48f-42ce-a3ac-3da2e4bcdf51" src="https://github.com/user-attachments/assets/7a816187-f6cf-4ab7-935c-f8e476e4f2f9" />
-<img width="1200" height="1600" alt="489366247-af607c45-935c-4bc9-89ff-0234fc882fb9" src="https://github.com/user-attachments/assets/3f1904e7-84ba-4460-a5a0-8e112bb83353" />
-<img width="960" height="1280" alt="489366411-97f108c6-50e4-422d-b8ad-979d1616c786" src="https://github.com/user-attachments/assets/23566ed8-1796-474b-9288-5a9be73729ea" />
-<img width="1200" height="1600" alt="489366426-73b18b89-1b38-463e-bd10-60d19be03be5" src="https://github.com/user-attachments/assets/0fc8645c-c280-4c57-aff5-06bd64615bb3" />
+![WhatsApp Image 2025-09-25 at 14 09 07_b946a3f4](https://github.com/user-attachments/assets/3b5c380e-5057-4c71-be5f-9ba1a7f7f3b3)
+![WhatsApp Image 2025-09-25 at 14 09 08_f4dd7905](https://github.com/user-attachments/assets/fc6897e1-825d-40a0-aea4-b15c3ffc9298)
+![WhatsApp Image 2025-09-25 at 14 09 09_b7a357a9](https://github.com/user-attachments/assets/3ca239b0-52de-4285-8068-92071c0f8ae4)
+![WhatsApp Image 2025-09-25 at 14 09 08_5e8a023c](https://github.com/user-attachments/assets/e4b28776-a7d3-46fb-99ae-a3b4954328ba)
+![WhatsApp Image 2025-09-25 at 14 09 08_0ccbebfd](https://github.com/user-attachments/assets/3484c71c-a9e1-4c90-9b1c-6df36e63c4b3)
 
 RESULT:
-
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
