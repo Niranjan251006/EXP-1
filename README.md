@@ -54,8 +54,8 @@ b.  KCL:
 
 
 Calculations and Tabulations:
-![WhatsApp Image 2025-09-25 at 14 09 07_b946a3f4](https://github.com/user-attachments/assets/3b5c380e-5057-4c71-be5f-9ba1a7f7f3b3)
-![WhatsApp Image 2025-09-25 at 14 09 08_f4dd7905](https://github.com/user-attachments/assets/fc6897e1-825d-40a0-aea4-b15c3ffc9298)
+![WhatsApp Image 2025-11-06 at 09 47 24_1415d221](https://github.com/user-attachments/assets/0d2a116f-8e36-4595-a360-90ee2e41e29f)
+![WhatsApp Image 2025-11-06 at 09 47 32_83231e22](https://github.com/user-attachments/assets/7d3b030c-2f92-4b62-9323-de4ba8d575ad)
 ![WhatsApp Image 2025-09-25 at 14 09 09_b7a357a9](https://github.com/user-attachments/assets/3ca239b0-52de-4285-8068-92071c0f8ae4)
 ![WhatsApp Image 2025-09-25 at 14 09 08_5e8a023c](https://github.com/user-attachments/assets/e4b28776-a7d3-46fb-99ae-a3b4954328ba)
 ![WhatsApp Image 2025-09-25 at 14 09 08_0ccbebfd](https://github.com/user-attachments/assets/3484c71c-a9e1-4c90-9b1c-6df36e63c4b3)
